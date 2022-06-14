@@ -1,0 +1,8 @@
+{
+  "editor.fontSize": 12,
+  "files.autoSave": "onWindowChange",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "diffEditor.codeLens": true,
+  "liveServer.settings.port": 5501
+}
